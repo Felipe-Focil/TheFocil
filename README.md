@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felipe Focil
-- 👀 I’m interested in Chess and IA
-- 🌱 I’m currently learning Github and Data Structures
+- 👀 I’m interested in Chess and Competitive Programming
+- 🌱 I’m currently learning Networks and Projects Administration
 - 📫 How to reach me feliperafael.focil@upaep.edu.mx
 
 <!---
